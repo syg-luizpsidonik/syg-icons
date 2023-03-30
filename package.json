@@ -1,7 +1,6 @@
 {
   "name": "syg-icons",
   "version": "0.1.0",
-  "private": true,
   "description": "Catálogo de icons.",
   "main": "dist/syg-icons.common.js",
   
