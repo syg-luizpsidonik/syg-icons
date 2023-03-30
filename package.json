@@ -2,6 +2,19 @@
   "name": "syg-icons",
   "version": "0.1.0",
   "private": true,
+  "description": "Catálogo de icons.",
+  "main": "dist/syg-icons.common.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syg-luizpsidonik/syg-icons.git"
+  },
+  "author": "Luiz Psidonik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syg-luizpsidonik/syg-icons/issues"
+  },
+  "homepage": "https://github.com/syg-luizpsidonik/syg-icons#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
